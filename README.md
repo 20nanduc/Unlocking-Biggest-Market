@@ -91,10 +91,11 @@ Strange, isn’t it? We can order food in 10 minutes, shop for anything from our
 
 Why?
 
-It’s not that people didn’t try hard enough.  
-It’s not about lack of money, ideas, or technology either. People trying create a general template for organizing events without knowing real problem.
+It’s not for lack of effort — people have tried.
+They’ve built templates, platforms, and tools to simplify event planning.
+But the real challenge isn’t money or technology.
 
-The truth lies somewhere deeper — hidden in how we celebrate, how we trust, and how every event feels… different from other.
+-- The truth lies somewhere deeper — hidden in how we celebrate, how we trust, and how every event feels… different from other.
 
 Events are not like buying a product; they’re alive — filled with **emotions**, **people**, **chaos**, **last-minute miracles**, and **memories** that can’t be templated.
 
