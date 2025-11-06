@@ -84,7 +84,7 @@ Because no one has found that **one universal truth to solve** — the way e-com
 
 ---
 
-## 🤔 Whyindia's millions of events Is Still Untouched 
+## 🤔 Why india's millions of events Is Still Untouched 
 
 Many have tried to digitalize events/celebrations — but somehow, it never really took off.  
 Strange, isn’t it? We can order food in 10 minutes, shop for anything from our couch, even get medicines at midnight — yet when it comes to events, things still run the old-fashioned way.
