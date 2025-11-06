@@ -46,7 +46,6 @@ So I asked myself —
 
 > **What’s the biggest market in India that no one has fully tapped yet?**
 
-My answer: **Event Management.**
 
 ---
 
