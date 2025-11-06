@@ -40,13 +40,13 @@ Even after someone passes away — in many cultures, that too becomes a celebrat
 Add to that the countless birthday parties, weddings, inaugurations, farewells, and office functions — every single day, across the country, *millions of events are happening.*
 
 We spend more on celebration than on almost anything else.  
-Ambani might spend ₹1000 crore on a wedding — but even the common man takes a loan to make sure his big day *“looks perfect.”*
+Ambani might spend ₹1000 crore on a wedding — no wonder, even the common man takes loan to make sure his big day *“looks perfect.”*
 
 So I asked myself —
 
 > **What’s the biggest market in India that no one has fully tapped yet?**
 
-
+That's india's wide celebrations
 ---
 
 ## 💻 The Developer in Me Kicked In
