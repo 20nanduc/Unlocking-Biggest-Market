@@ -62,7 +62,7 @@ Think about it.
 We already have **Amazon** for shopping, **Zomato** for food, **Blinkit** for groceries, **Myntra** for fashion, **PharmEasy** for medicine — the list keeps growing.
 
 At first glance, it looks like all these platforms solved different problems.  
-But here’s the truth that hit me — **they all solved the same single problem.**
+But here’s the truth that hit me — **they all solved the same single problem in different angle.**
 
 > A physical shop can only hold so much.  
 > A digital one can hold everything.
