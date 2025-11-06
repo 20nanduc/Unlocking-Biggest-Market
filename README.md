@@ -1,4 +1,4 @@
-# 🇮🇳 Unlocking India’s Hidden Goldmine
+# Unlocking India’s Hidden Goldmine
 
 You probably clicked thinking this is another clickbait title, right?  
 Fair enough — but give me a few seconds, and I promise it’ll be worth it.
@@ -123,4 +123,6 @@ Let’s build something that doesn’t just **work** — something that **feels 
 Something people **remember.**
 
 Thanks for reading ❤️  
-**— Nandu**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/nandu-c-14707235a))  
+
