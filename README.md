@@ -1,7 +1,7 @@
 # Unlocking India’s Hidden Goldmine
 
-You probably clicked thinking this is another clickbait title, right?  
-Fair enough — but give me a few seconds, and I promise it’ll be worth it.
+At first glance, the title sounds bold — maybe even exaggerated.
+But give me a moment, and you’ll see why I believe this could be India’s next untapped goldmine.
 
 ---
 
