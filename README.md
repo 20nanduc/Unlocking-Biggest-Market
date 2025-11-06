@@ -75,25 +75,26 @@ They gave us **infinite shelves**, **24x7 access**, and **trust** that your prod
 Simple idea — massive impact.
 
 And that’s when I realized...  
-Event management doesn’t have that one clear problem yet.  
+india's millions of events doesn’t have that one common clear problem yet or unknown.  
 It’s scattered — full of emotions, traditions, people, chaos, and last-minute fixes.  
 There’s no single *“store limit”* to break.
 
 That’s why digital platforms in this space haven’t exploded yet.  
-Because no one has found that **one universal truth to solve** — the way e-commerce did.
+Because no one has found that **one universal truth to solve** — the way e-commerce or other platforms did.
 
 ---
 
-## 🤔 Why Event Management Is Still Untouched
+## 🤔 Whyindia's millions of events Is Still Untouched 
 
-Many have tried to digitalize events — but somehow, it never really took off.  
+Many have tried to digitalize events/celebrations — but somehow, it never really took off.  
 Strange, isn’t it? We can order food in 10 minutes, shop for anything from our couch, even get medicines at midnight — yet when it comes to events, things still run the old-fashioned way.
 
 Why?
 
 It’s not that people didn’t try hard enough.  
-It’s not about lack of money, ideas, or technology either.  
-The truth lies somewhere deeper — hidden in how we celebrate, how we trust, and how every event feels… different.
+It’s not about lack of money, ideas, or technology either. People trying create a general template for organizing events without knowing real problem.
+
+The truth lies somewhere deeper — hidden in how we celebrate, how we trust, and how every event feels… different from other.
 
 Events are not like buying a product; they’re alive — filled with **emotions**, **people**, **chaos**, **last-minute miracles**, and **memories** that can’t be templated.
 
