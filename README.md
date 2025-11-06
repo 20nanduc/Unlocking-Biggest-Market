@@ -124,5 +124,5 @@ Something people **remember.**
 
 Thanks for reading ❤️  
 
-[LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/nandu-c-14707235a))  
+[[LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/nandu-c-14707235a))]  
 
