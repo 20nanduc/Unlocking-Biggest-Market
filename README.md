@@ -45,8 +45,8 @@ Ambani might spend ₹1000 crore on a wedding — no wonder, even the common man
 So I asked myself —
 
 > **What’s the biggest market in India that no one has fully tapped yet?**
-
 That's india's wide celebrations
+
 ---
 
 ## 💻 The Developer in Me Kicked In
